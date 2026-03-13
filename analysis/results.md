@@ -43,7 +43,7 @@ The HHH framework (Helpful, Harmless, Honest) is the dominant alignment target f
 **Experimental: 447/600 (74.5%) — models were "helpful"**
 **Controls: 0/125 (0.0%) — models refused overt harm**
 
-## Table 2: Harmless (Safety Detection )Rates(
+## Table 2: Harmless (Safety Detection Rates)
 
 *Do deployed safety tools flag the outputs? Three independent judges per text.*
 
